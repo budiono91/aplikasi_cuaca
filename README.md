@@ -1,2 +1,1 @@
-# aplikasi_cuaca
-aplikasi_cuaca
+# aplikasi_cuaca sederhana
